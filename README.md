@@ -8,6 +8,7 @@ Install python 3.11
 ### Step 2
 Install dependency libraries with below command
 ```
+cd python
 pip install -r requirements.txt
 ```
 
